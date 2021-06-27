@@ -65,6 +65,8 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 # Accuracy Scores
 
+
+
    | Model                | Train Score  | Test Score   |
    | :-------------:      | :----------: | :-----------:|
    |  KNN                 | 0.75         | 0.73         |
@@ -76,9 +78,7 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 
 
-<p align="center"> 
    <img width="430" alt="Ekran Resmi 2021-06-28 00 54 17" src="https://user-images.githubusercontent.com/52889449/123560540-7ce9ab00-d7ab-11eb-827a-092226e5500a.png">
-</p>
 
 
 # References:
