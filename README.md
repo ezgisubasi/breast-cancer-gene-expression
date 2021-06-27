@@ -10,13 +10,10 @@ This project aims to predict people who will survive breast cancer using machine
 
 Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women. There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure.
 
-<p align="center"> 
-   <img width="400" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551893-70019300-d77c-11eb-8e0b-ea4efd83e1b1.jpeg">  
+<p align="center">    
+   <img width="500" alt="Ekran Resmi 2021-06-28 01 26 29" src="https://user-images.githubusercontent.com/52889449/123561236-e8ce1280-d7af-11eb-9fda-2570aaf74da8.png">
    
-   
-<img width="521" alt="Ekran Resmi 2021-06-28 01 26 29" src="https://user-images.githubusercontent.com/52889449/123561236-e8ce1280-d7af-11eb-9fda-2570aaf74da8.png">
-
-   
+   <img width="573" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/123561291-131fd000-d7b0-11eb-8481-1a0e362d6c2c.png">   
 </p>
 
 # Dataset
