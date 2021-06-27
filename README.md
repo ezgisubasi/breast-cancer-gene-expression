@@ -32,8 +32,12 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 
 
+cellularity, cancer_type_detailed, type_of_breast_surgery, her2_status_measured_by_snp6, pam50_+_claudin-low_subtype, her2_status_measured_by_snp6, tumor_other_histologic_subtype, integrative_cluster, 3-gene_classifier_subtype, death_from_cancer
+
+
 ## One-Hot Encoding:
 
+er_status_measured_by_ihc, er_status, her2_status, inferred_menopausal_state, primary_tumor_laterality, pr_status, oncotree_code
 
 # Data Visualization
 
