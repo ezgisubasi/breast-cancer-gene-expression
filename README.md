@@ -12,7 +12,7 @@ Breast cancer is a type of cancer that occurs when some cells in the breast grow
 
 <p align="center">    
   <img width="300" alt="Ekran Resmi 2021-06-28 01 31 00" src="https://user-images.githubusercontent.com/52889449/123561347-83c6ec80-d7b0-11eb-8653-3aa61952e1fe.png">
-   <img width="400" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/123561291-131fd000-d7b0-11eb-8481-1a0e362d6c2c.png">   
+   <img width="450" alt="Ekran Resmi 2021-06-28 01 27 32" src="https://user-images.githubusercontent.com/52889449/123561291-131fd000-d7b0-11eb-8481-1a0e362d6c2c.png">   
 </p>
 
 # Dataset
