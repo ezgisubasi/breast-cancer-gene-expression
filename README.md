@@ -33,7 +33,7 @@ In the preprocessing part, first I cleaned the data and according to skew-distri
 
 The following categorical features are ordinal data encoded with the label encoding method.
 
-* cellularity*
+* cellularity
 * cancer_type_detailed
 * type_of_breast_surgery
 * her2_status_measured_by_snp6
