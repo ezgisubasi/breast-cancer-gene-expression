@@ -8,7 +8,7 @@ This project aims to predict people who will survive breast cancer using machine
 
 # What is Breast Cancer?
 
-Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women. There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure.
+Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women. There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure. These genes can be also passed from parent to child. Therefore, breast cancer is also a genetically transmitted cancer type.
 
 <p align="center">    
   <img width="300" alt="Ekran Resmi 2021-06-28 01 31 00" src="https://user-images.githubusercontent.com/52889449/123561347-83c6ec80-d7b0-11eb-8653-3aa61952e1fe.png">
@@ -30,7 +30,6 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
  In the preprocessing part, first I cleaned the data and according to skew-distribution fill the missing values with the mode of them. After that, I applied Label Encoding and One-Hot Encoding to the categorical clinic data respectively.
 
 ## Label Encoding:
-
 
 
 cellularity, cancer_type_detailed, type_of_breast_surgery, her2_status_measured_by_snp6, pam50_+_claudin-low_subtype, her2_status_measured_by_snp6, tumor_other_histologic_subtype, integrative_cluster, 3-gene_classifier_subtype, death_from_cancer
