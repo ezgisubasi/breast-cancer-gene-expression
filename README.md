@@ -2,14 +2,12 @@
 
 This project aims to predict people who will survive breast cancer using machine learning models with the help of clinical data and gene expression profiles of the patients. Using machine learning models on gene data helps us better understand the disease and determine how well treatment methods work.
 
-# What is Breast Cancer? **
+# What is Breast Cancer?
 
-Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women.
-
-There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure.
+Breast cancer is a type of cancer that occurs when some cells in the breast grow excessively. This type of cancer causes the greatest number of cancer-related deaths among women. There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure.
 
 <p align="center"> 
-   <img width="300" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551893-70019300-d77c-11eb-8e0b-ea4efd83e1b1.jpeg">  
+   <img width="400" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551893-70019300-d77c-11eb-8e0b-ea4efd83e1b1.jpeg">  
 </p>
 
 # Dataset
@@ -36,7 +34,6 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 # Data Visualization
 
 
-
 ## Correlation Matrix
 
 <p align="center"> 
@@ -57,6 +54,8 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 
 # Choosing Best PCA
+
+
 
   <p align="center"> 
     <img width="600" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
