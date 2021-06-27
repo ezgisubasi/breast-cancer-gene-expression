@@ -12,8 +12,6 @@ There are 5 known types of breast cancer based on the occurrence of the tumor as
 
 This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes, and mutation in 175 genes for 1904 breast cancer patients. The following table contains clinic data attributes along with their descriptions.
 
-
-
 # Importance of the Genes
 
 **BRCA1 and BRCA2:** The most common cause of hereditary breast cancer is an inherited mutation in the BRCA1 or BRCA2 gene. In normal cells, these genes help make proteins that repair damaged DNA. Mutated versions of these genes can lead to abnormal cell growth, which can lead to cancer.
@@ -37,26 +35,26 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 ## Correlation Matrix
 
 <p align="center"> 
-<img width="649" alt="Ekran Resmi 2021-06-27 19 12 24" src="https://user-images.githubusercontent.com/52889449/123551809-f8cbff00-d77b-11eb-99fc-2fe436a8a038.png">
+<img width="700" alt="Ekran Resmi 2021-06-27 19 12 24" src="https://user-images.githubusercontent.com/52889449/123551809-f8cbff00-d77b-11eb-99fc-2fe436a8a038.png">
 </p>
 
 ## Treatment Types & Survivals
 
 <p align="center"> 
-  <img width="592" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551763-cde1ab00-d77b-11eb-94b8-87aaab431208.png">  
+  <img width="600" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551763-cde1ab00-d77b-11eb-94b8-87aaab431208.png">  
 </p>
 
 ## Survived Patients by Treatment Groups
 
 <p align="center"> 
-  <img width="380" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
+  <img width="600" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
 </p>
 
 
 # Choosing Best PCA
 
   <p align="center"> 
-    <img width="476" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
+    <img width="600" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
 </p>
 
 
