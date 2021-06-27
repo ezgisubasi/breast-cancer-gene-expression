@@ -61,7 +61,7 @@ In order to better understand the data and make some inferences, I analyzed usin
 ## Survived Patients by Treatment Groups
 
 <p align="center"> 
-  <img width="500" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
+  <img width="450" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
 </p>
 
 
