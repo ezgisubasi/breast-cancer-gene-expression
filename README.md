@@ -31,14 +31,16 @@ In the preprocessing part, first I cleaned the data and according to skew-distri
 
 ## Label Encoding:
 
+The following categorical features are ordinal data encoded with the label encoding method.
 
-
-cellularity, cancer_type_detailed, type_of_breast_surgery, her2_status_measured_by_snp6, pam50_+_claudin-low_subtype, her2_status_measured_by_snp6, tumor_other_histologic_subtype, integrative_cluster, 3-gene_classifier_subtype, death_from_cancer
+"cellularity, cancer_type_detailed, type_of_breast_surgery, her2_status_measured_by_snp6, pam50_+_claudin-low_subtype, her2_status_measured_by_snp6, tumor_other_histologic_subtype, integrative_cluster, 3-gene_classifier_subtype, death_from_cancer"
 
 
 ## One-Hot Encoding:
 
-er_status_measured_by_ihc, er_status, her2_status, inferred_menopausal_state, primary_tumor_laterality, pr_status, oncotree_code
+The following categorical features are nominal data encoded with the one-hot encoding method.
+
+"er_status_measured_by_ihc, er_status, her2_status, inferred_menopausal_state, primary_tumor_laterality, pr_status, oncotree_code"
 
 # Data Visualization
 
@@ -67,7 +69,9 @@ In order to better understand the data and make some inferences, I analyzed usin
 
 
 
+<p align="center"> 
  <img width="580" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
+</p>
 
 
 # Accuracy Scores
