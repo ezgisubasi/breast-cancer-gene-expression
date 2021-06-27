@@ -65,7 +65,7 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 # Accuracy Scores
 
-<p align="center"> 
+<center>
 
    | Model                | Train Score  | Test Score   |
    | :-------------       | :----------: | -----------: |
@@ -76,7 +76,7 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
    |  Extra Trees         | 0.93         | 0.58         |
    |  AdaBoost            | 1.0          | 0.65         |
 
-</p>
+</center>
 
 
 <p align="center"> 
