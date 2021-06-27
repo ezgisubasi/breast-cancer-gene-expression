@@ -65,14 +65,18 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 # Accuracy Scores
 
-| Model                | Train Score  | Test Score   |
-| :-------------       | :----------: | -----------: |
-|  KNN                 | 0.75         | 0.73         |
-|  Logistic Regression | 0.82         | 0.89         |
-|  Random Forest       | 1.0          | 0.62         |
-|  Decision Tree       | 0.69         | 0.62         |
-|  Extra Trees         | 0.93         | 0.58         |
-|  AdaBoost            | 1.0          | 0.65         |
+<p align="center"> 
+
+   | Model                | Train Score  | Test Score   |
+   | :-------------       | :----------: | -----------: |
+   |  KNN                 | 0.75         | 0.73         |
+   |  Logistic Regression | 0.82         | 0.89         |
+   |  Random Forest       | 1.0          | 0.62         |
+   |  Decision Tree       | 0.69         | 0.62         |
+   |  Extra Trees         | 0.93         | 0.58         |
+   |  AdaBoost            | 1.0          | 0.65         |
+
+</p>
 
 
 <p align="center"> 
