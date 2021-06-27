@@ -53,13 +53,13 @@ In order to better understand the data and make some inferences, I analyzed usin
 ## Treatment Types & Survivals
 
 <p align="center"> 
-  <img width="700" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551763-cde1ab00-d77b-11eb-94b8-87aaab431208.png">  
+  <img width="650" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551763-cde1ab00-d77b-11eb-94b8-87aaab431208.png">  
 </p>
 
 ## Survived Patients by Treatment Groups
 
 <p align="center"> 
-  <img width="500" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
+  <img width="550" alt="Ekran Resmi 2021-06-27 19 12 58" src="https://user-images.githubusercontent.com/52889449/123551766-d0440500-d77b-11eb-99b4-2442bd28ee51.png">
 </p>
 
 
