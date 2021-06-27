@@ -1,5 +1,9 @@
 # breast-cancer-gene-expression
 
+<p align="center"> 
+   <img width="822" alt="Ekran Resmi 2021-06-28 01 15 28" src="https://user-images.githubusercontent.com/52889449/123560979-6b55d280-d7ae-11eb-8e97-82b997e5ab56.png">
+</p>
+
 This project aims to predict people who will survive breast cancer using machine learning models with the help of clinical data and gene expression profiles of the patients. Using machine learning models on gene data helps us better understand the disease and determine how well treatment methods work.
 
 # What is Breast Cancer?
