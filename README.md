@@ -9,7 +9,7 @@ Breast cancer is a type of cancer that occurs when some cells in the breast grow
 There are 5 known types of breast cancer based on the occurrence of the tumor as you can see in the figure.
 
 <p align="center"> 
-   <img width="500" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551893-70019300-d77c-11eb-8e0b-ea4efd83e1b1.jpeg">  
+   <img width="300" alt="Ekran Resmi 2021-06-27 19 12 41" src="https://user-images.githubusercontent.com/52889449/123551893-70019300-d77c-11eb-8e0b-ea4efd83e1b1.jpeg">  
 </p>
 
 # Dataset
