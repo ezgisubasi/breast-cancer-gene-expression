@@ -36,6 +36,7 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 # Data Visualization
 
 
+
 ## Correlation Matrix
 
 <p align="center"> 
@@ -62,7 +63,14 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 </p>
 
 
-# Machine Learning Models
+# Scores
+
+<p align="center"> 
+   <img width="430" alt="Ekran Resmi 2021-06-28 00 54 17" src="https://user-images.githubusercontent.com/52889449/123560540-7ce9ab00-d7ab-11eb-827a-092226e5500a.png">
+</p>
 
 
-# Conclusion
+# References:
+
+1) https://www.nature.com/articles/s41523-018-0056-8
+2) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5461908/
