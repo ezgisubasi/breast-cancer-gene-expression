@@ -17,7 +17,7 @@ Breast cancer is a type of cancer that occurs when some cells in the breast grow
 
 # Dataset
 
-This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes, and mutation in 175 genes for 1904 breast cancer patients. The following table contains clinic data attributes along with their descriptions.
+This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes, and mutation in 175 genes for 1904 breast cancer patients. 
 
 # Importance of the Genes
 
@@ -27,9 +27,10 @@ This dataset includes 31 clinical attributes, mRNA levels z-score for 331 genes,
 
 # Data Preprocessing
  
- In the preprocessing part, first I cleaned the data and according to skew-distribution fill the missing values with the mode of them. After that, I applied Label Encoding and One-Hot Encoding to the categorical clinic data respectively.
+In the preprocessing part, first I cleaned the data and according to skew-distribution fill the missing values with the mode of them. After that, I applied Label Encoding and One-Hot Encoding to the categorical clinic data respectively.
 
 ## Label Encoding:
+
 
 
 cellularity, cancer_type_detailed, type_of_breast_surgery, her2_status_measured_by_snp6, pam50_+_claudin-low_subtype, her2_status_measured_by_snp6, tumor_other_histologic_subtype, integrative_cluster, 3-gene_classifier_subtype, death_from_cancer
@@ -41,6 +42,7 @@ er_status_measured_by_ihc, er_status, her2_status, inferred_menopausal_state, pr
 
 # Data Visualization
 
+In order to better understand the data and make some inferences, I analyzed using the following data visualization techniques.
 
 ## Correlation Matrix
 
@@ -65,8 +67,9 @@ er_status_measured_by_ihc, er_status, her2_status, inferred_menopausal_state, pr
 
 
 
-  <p align="center"> 
-    <img width="600" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
+
+<p align="center"> 
+    <img width="500" alt="Ekran Resmi 2021-06-27 19 13 14" src="https://user-images.githubusercontent.com/52889449/123551772-d5a14f80-d77b-11eb-945d-ea587124ecd6.png">
 </p>
 
 
